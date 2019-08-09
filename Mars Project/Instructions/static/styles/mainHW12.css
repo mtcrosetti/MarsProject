@@ -1,0 +1,17 @@
+.navbar {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+.btn {
+    text-align: center;
+}
+.weather {
+    border: 20px solid lightgray;  
+}
+.hemisphere {
+    border: 2px solid lightgray;
+    display: inline-block;
+}
+
